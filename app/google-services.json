@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1030130327041",
+    "project_id": "chatwhats-f83d1",
+    "storage_bucket": "chatwhats-f83d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030130327041:android:e45e8a0a6d282504baea00",
+        "android_client_info": {
+          "package_name": "com.example.poryectochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030130327041-1d5rcuservqno772kefod00m8k1to03u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poryectochat",
+            "certificate_hash": "9f20cccd456b02caf32d65500f90513306ebad15"
+          }
+        },
+        {
+          "client_id": "1030130327041-jqso7j4ldr432j0ffod4r0k43u2cdbd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuPY13rPOvyffObbVzPvG0GLzE5oWo2pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030130327041-jqso7j4ldr432j0ffod4r0k43u2cdbd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
